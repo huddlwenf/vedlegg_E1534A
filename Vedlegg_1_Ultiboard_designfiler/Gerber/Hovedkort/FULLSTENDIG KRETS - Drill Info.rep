@@ -1,0 +1,23 @@
+ULTIBOARD DRILL REPORT
+
+Design: FULLSTENDIG KRETS
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Metric, 3.4 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                          LAMINATION
+FULLSTENDIG KRETS - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1   0.3000    PTH     83
+   2   3.0000   NPTH      2
+   3   0.9000    PTH      2
+   4   0.6000    PTH      3

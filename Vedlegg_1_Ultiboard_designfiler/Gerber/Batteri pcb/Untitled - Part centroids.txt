@@ -1,0 +1,13 @@
+Ultiboard Information Export File
+
+Design Name  : Untitled - Part centroids
+Report Date  : 15 April 2015
+Report Time  : 13:09
+--------------------------------------------------------------------------------
+
+REFDES        VALUE        SHAPE        X_CENTRE[mm] Y_CENTRE[mm]    ROT SIDE     TYPE    
+
+x1            1            BO1_0           40.980000    43.970000      0 TOP      THD     
+x2            1            BO1_0           27.950000    49.520000      0 TOP      THD     
+x3            1            BO1_0           40.980000    74.470000      0 TOP      THD     
+x4            1            BO1_0           25.520000    53.870000      0 TOP      THD     

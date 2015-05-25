@@ -1,0 +1,55 @@
+Ultiboard Information Export File
+
+Design Name  : FULLSTENDIG KRETS - Part centroids
+Report Date  : 15 April 2015
+Report Time  : 13:07
+--------------------------------------------------------------------------------
+
+REFDES        VALUE        SHAPE        X_CENTRE[mm] Y_CENTRE[mm]    ROT SIDE     TYPE    
+
+A1            Joahanson antenne 3216 Antenne 3216    56.100000    64.725000      0 TOP      SMD     
+B1            Johanson balun Johanson balun 2450BM14E0003(2)    43.575000    64.175000    180 TOP      SMD     
+C2            12pF         0402 (egenlaget)    39.400000    69.900000    135 TOP      SMD     
+C3            2.2nF        0402 (egenlaget)    44.050000    62.725000    180 TOP      SMD     
+C4            30pF         PROBE           41.350000    51.800000     90 TOP      THD     
+C5            0.12uF       0402 (egenlaget)    43.850000    51.925000      0 TOP      SMD     
+C6            4pF          0402 (egenlaget)    45.600000    53.575000     90 TOP      SMD     
+C7            4.7UF        0603 (egenlaget)    34.500000    67.500000     90 TOP      SMD     
+C8            100nF        0402 (egenlaget)    39.300000    68.600000    315 TOP      SMD     
+C9            1nF          0402 (egenlaget)    42.250000    67.800000    270 TOP      SMD     
+C10           47nF         0402 (egenlaget)    43.600000    61.200000    270 TOP      SMD     
+C11           100nF        0402 (egenlaget)    34.000000    61.200000    270 TOP      SMD     
+C12           1uF          0603 (egenlaget)    32.500000    67.500000    270 TOP      SMD     
+C13           12pF         0402 (egenlaget)    31.300000    72.075000    270 TOP      SMD     
+C14           12pF         0402 (egenlaget)    36.700000    72.050000    270 TOP      SMD     
+C15           0.1uF        0402 (egenlaget)    43.800000    55.700000      0 TOP      SMD     
+C16           1uF          ELECTROLYT CAP 3X5.4    43.825000    57.775000      0 TOP      SMD     
+C17           4.7uF        0402 (egenlaget)    29.975000    56.925000    270 TOP      SMD     
+C18           10nF         0402 (egenlaget)    28.225000    57.274992    270 TOP      SMD     
+C19           4.7uF        0402 (egenlaget)    31.675000    61.174992     90 TOP      SMD     
+C20           0.1uF        0402 (egenlaget)    32.575000    61.174992     90 TOP      SMD     
+Cm            1            0402 (egenlaget)    49.050000    64.725000      0 TOP      SMD     
+L1            22uH         0402 (egenlaget)    31.175000    58.499992     45 TOP      SMD     
+L4            10uH         0603 (egenlaget)    33.200000    65.600000      0 TOP      SMD     
+L5            15nH         0402 (egenlaget)    31.450000    65.900000    270 TOP      SMD     
+Lm            1            0402 (egenlaget)    50.550000    64.275000    270 TOP      SMD     
+Lm2           1            0402 (egenlaget)    52.075000    64.725000      0 TOP      SMD     
+R1            0.5MOhm      0402 (egenlaget)    42.075000    54.525000     90 TOP      SMD     
+R2            1MOhm        0402 (egenlaget)    42.075000    53.025000    180 TOP      SMD     
+R3            4.7MOhm      0402 (egenlaget)    27.175000    57.274992    270 TOP      SMD     
+R4            18MOhm       0402 (egenlaget)    26.225000    58.174992    270 TOP      SMD     
+R5            20kOhm       0402 (egenlaget)    25.975000    59.724992      0 TOP      SMD     
+R6            5.9MOhm      0402 (egenlaget)    27.025000    62.474992     45 TOP      SMD     
+R7            5.62MOhm     0402 (egenlaget)    26.375000    63.124992     45 TOP      SMD     
+R8            4.02MOhm     0402 (egenlaget)    25.725000    61.174992     45 TOP      SMD     
+R9            4.32MOhm     0402 (egenlaget)    25.075000    61.824992     45 TOP      SMD     
+U1            nRF51822     nRF51822 QFN-48    38.500000    63.500000      0 TOP      SMD     
+U2            TI LMC 555 CMOS DSBGA-8 TI LMC555 CMOS DSBGA-8    43.900000    53.900000      0 TOP      SMD     
+U3            ADP5090      ADP5090(2)      29.047156    60.485912      0 TOP      SMD     
+X1            CRYSTAL 2520 CRYSTAL 2520    41.100000    71.400000     45 TOP      SMD     
+X2            CRYSTAL_VIRTUAL 3216_IND        34.000000    72.100000    180 TOP      SMD     
+c1            12pF         0402 (egenlaget)    42.700000    73.000000    315 TOP      SMD     
+x1            1            SWD Connector    35.315000    53.275000      0 TOP      SMD     
+x2            1            BO5_0           25.520000    53.870000      0 TOP      THD     
+x3            2            BO5_0           27.950000    49.520000      0 TOP      THD     
+x4            1            BO5_0           24.200000    57.100000      0 TOP      THD     

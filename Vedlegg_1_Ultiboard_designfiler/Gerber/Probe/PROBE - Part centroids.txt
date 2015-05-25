@@ -1,0 +1,11 @@
+Ultiboard Information Export File
+
+Design Name  : PROBE - Part centroids
+Report Date  : 15 April 2015
+Report Time  : 01:59
+--------------------------------------------------------------------------------
+
+REFDES        VALUE        SHAPE        X_CENTRE[mm] Y_CENTRE[mm]    ROT SIDE     TYPE    
+
+U1            1            BO1_0          -17.500000   -50.000000      0 TOP      THD     
+U2            2            BO1_0          -17.500000   -45.000000      0 TOP      THD     

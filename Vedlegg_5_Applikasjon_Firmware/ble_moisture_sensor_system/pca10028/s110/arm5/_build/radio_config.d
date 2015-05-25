@@ -1,0 +1,13 @@
+.\_build\radio_config.o: RTE\nRF_Drivers\nRF51422_xxAC\radio_config.c
+.\_build\radio_config.o: RTE\nRF_Drivers\nRF51422_xxAC\radio_config.h
+.\_build\radio_config.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_Drivers\2.0.0\hal\nrf_delay.h
+.\_build\radio_config.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\7.1.0\Device\Include\nrf.h
+.\_build\radio_config.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\7.1.0\Device\Include\nrf51.h
+.\_build\radio_config.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cm0.h
+.\_build\radio_config.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\_build\radio_config.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmInstr.h
+.\_build\radio_config.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include\core_cmFunc.h
+.\_build\radio_config.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\7.1.0\Device\Include\system_nrf51.h
+.\_build\radio_config.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\7.1.0\Device\Include\nrf51_bitfields.h
+.\_build\radio_config.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\7.1.0\Device\Include\nrf51_deprecated.h
+.\_build\radio_config.o: C:\Keil_v5\ARM\PACK\NordicSemiconductor\nRF_DeviceFamilyPack\7.1.0\Device\Include\compiler_abstraction.h
